@@ -1,0 +1,51 @@
+Chengchuan College: Student Profiles
+
+Student departments and academic advisors are listed below.
+
+Yuchuan Jiang (S26-01) belongs to Information Engineering Department (D26-01). Wenbo Gu (T26-01) is the academic advisor of Yuchuan Jiang (S26-01).
+
+Shuning Wen (S26-02) belongs to Information Engineering Department (D26-01). Sining Tang (T26-02) is the academic advisor of Shuning Wen (S26-02).
+
+Xingye Zhou (S26-03) belongs to Information Engineering Department (D26-01). Wenbo Gu (T26-01) is the academic advisor of Xingye Zhou (S26-03).
+
+Yingxue Chen (S26-04) belongs to Information Engineering Department (D26-01). Sining Tang (T26-02) is the academic advisor of Yingxue Chen (S26-04).
+
+Zhixing Song (S26-05) belongs to Information Engineering Department (D26-01). Wenbo Gu (T26-01) is the academic advisor of Zhixing Song (S26-05).
+
+Muyan Su (S26-06) belongs to Information Engineering Department (D26-01). Sining Tang (T26-02) is the academic advisor of Muyan Su (S26-06).
+
+Yinan He (S26-07) belongs to Mathematical Sciences Department (D26-02). Jingcheng Han (T26-03) is the academic advisor of Yinan He (S26-07).
+
+Qinghe Lu (S26-08) belongs to Mathematical Sciences Department (D26-02). Anhe Xu (T26-04) is the academic advisor of Qinghe Lu (S26-08).
+
+Wangshu Xie (S26-09) belongs to Mathematical Sciences Department (D26-02). Jingcheng Han (T26-03) is the academic advisor of Wangshu Xie (S26-09).
+
+Shian Qin (S26-10) belongs to Mathematical Sciences Department (D26-02). Anhe Xu (T26-04) is the academic advisor of Shian Qin (S26-10).
+
+Qinghe Bai (S26-11) belongs to Mathematical Sciences Department (D26-02). Jingcheng Han (T26-03) is the academic advisor of Qinghe Bai (S26-11).
+
+Ruochu Jiang (S26-12) belongs to Mathematical Sciences Department (D26-02). Anhe Xu (T26-04) is the academic advisor of Ruochu Jiang (S26-12).
+
+Tinglan Yu (S26-13) belongs to Language and Culture Department (D26-03). Shuyao Ye (T26-05) is the academic advisor of Tinglan Yu (S26-13).
+
+Yutong Cheng (S26-14) belongs to Language and Culture Department (D26-03). Zhixia Meng (T26-06) is the academic advisor of Yutong Cheng (S26-14).
+
+Mubai Fang (S26-15) belongs to Language and Culture Department (D26-03). Shuyao Ye (T26-05) is the academic advisor of Mubai Fang (S26-15).
+
+Xingmian Du (S26-16) belongs to Language and Culture Department (D26-03). Zhixia Meng (T26-06) is the academic advisor of Xingmian Du (S26-16).
+
+Anran Yao (S26-17) belongs to Language and Culture Department (D26-03). Shuyao Ye (T26-05) is the academic advisor of Anran Yao (S26-17).
+
+Jingchu Deng (S26-18) belongs to Language and Culture Department (D26-03). Zhixia Meng (T26-06) is the academic advisor of Jingchu Deng (S26-18).
+
+Yunxi He (S26-19) belongs to Education Research Department (D26-04). Mingke Shao (T26-07) is the academic advisor of Yunxi He (S26-19).
+
+Jiayan Fu (S26-20) belongs to Education Research Department (D26-04). Qingyue Luo (T26-08) is the academic advisor of Jiayan Fu (S26-20).
+
+Yizhou Pan (S26-21) belongs to Education Research Department (D26-04). Mingke Shao (T26-07) is the academic advisor of Yizhou Pan (S26-21).
+
+Shuyao Liao (S26-22) belongs to Education Research Department (D26-04). Qingyue Luo (T26-08) is the academic advisor of Shuyao Liao (S26-22).
+
+Mingxuan Duan (S26-23) belongs to Education Research Department (D26-04). Mingke Shao (T26-07) is the academic advisor of Mingxuan Duan (S26-23).
+
+Wantang Xue (S26-24) belongs to Education Research Department (D26-04). Qingyue Luo (T26-08) is the academic advisor of Wantang Xue (S26-24).

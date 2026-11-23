@@ -1,0 +1,69 @@
+Knowledge Graph Agent - licensing scope and third-party notices
+
+Original project material
+-------------------------
+Copyright (c) 2026 FrankieGan.
+
+Original code and documentation contributed to this project are licensed under
+the MIT License in LICENSE, unless a file states otherwise. This grant covers
+only material the contributors have the right to license. It does not relicense
+third-party software or waive conditions imposed by its authors.
+
+PyMuPDF and MuPDF
+----------------
+This project directly uses PyMuPDF to open PDF documents, extract embedded text,
+and render pages as images for OCR. PyMuPDF and MuPDF are maintained by Artifex
+Software, Inc. Their copyright notices remain with their respective authors.
+
+PyMuPDF and MuPDF are available under the GNU Affero General Public License,
+version 3 (AGPLv3), or a separate commercial license from Artifex. This repository
+does not grant or include an Artifex commercial license. When using the AGPL
+edition, the applicable AGPL obligations must be observed in addition to the MIT
+terms for this project's original material.
+
+The MIT grant for the original material remains available for its separate reuse.
+It is not a statement that the complete application combined with AGPL-covered
+components may be distributed or deployed solely under MIT. When conveyed as an
+AGPL-covered combined work, the covered work as a whole must be made available
+under the applicable AGPL terms, while the separate MIT grant to original material
+remains available. Merely listing PyMuPDF as an external dependency
+does not by itself remove those obligations.
+
+Distribution and deployment
+---------------------------
+When conveying an AGPL-covered combination, preserve applicable copyright and
+license notices, include the AGPL, and provide the Corresponding Source and any
+required installation information in a manner permitted by the license. Retain
+the MIT copyright and permission notice for this project's original material.
+
+For a modified AGPL-covered version that supports remote network interaction,
+AGPL section 13 requires a prominent offer to all remote users to obtain that
+version's Corresponding Source, at no charge, through a standard way of copying
+software. Treat deployment of a modified covered combination accordingly; this
+requirement is not limited to edits made inside the PyMuPDF package itself.
+
+Corresponding Source must match the covered version actually distributed or
+deployed and include the source and scripts required by the license. Private API
+keys, database passwords, and unrelated personal data must not be included. A
+private repository inaccessible to service users is not a substitute for a
+required source offer. Storing this project in a private repository does not
+waive obligations arising from its distribution or deployment.
+
+If the intended distribution or deployment cannot meet the AGPL conditions,
+obtain an appropriate Artifex commercial license or replace the AGPL component
+and assess the replacement's license before proceeding.
+
+The complete AGPLv3 text is provided in licenses/AGPL-3.0.txt. It controls over
+this practical summary. PyMuPDF itself is installed separately and is not
+vendored in this repository. Redistribution of third-party packages or binaries
+must also preserve the notices and source-access requirements of those packages.
+Other dependencies, external OCR tools, models, and database software retain
+their own licenses; this notice is not an exhaustive inventory of them.
+
+Upstream references
+-------------------
+PyMuPDF licensing: https://pymupdf.io/licensing
+PyMuPDF source: https://github.com/pymupdf/PyMuPDF
+MuPDF source: https://github.com/ArtifexSoftware/mupdf
+AGPLv3: https://www.gnu.org/licenses/agpl-3.0.html
+License compatibility: https://www.gnu.org/licenses/license-compatibility.en.html

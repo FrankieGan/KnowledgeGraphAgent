@@ -1,0 +1,13 @@
+subject,predicate,object
+Teacher,belongs_to_department,Department
+Department,headed_by,Teacher
+Course,offered_by_department,Department
+Course,led_by_teacher,Teacher
+Student,belongs_to_department,Department
+Teacher,advises_student,Student
+Course,requires_prerequisite,Course
+Student,supports_peer,Student
+Student,consults_teacher,Teacher
+Department,cooperates_with,Department
+Teacher,focuses_on_research_area,ResearchArea
+Department,focuses_on_research_area,ResearchArea

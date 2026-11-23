@@ -1,0 +1,13 @@
+﻿id,name,credits,contact_hours,department_id,lead_teacher_id,term
+C26-01,Introduction to Programming,4,64,D26-01,T26-02,Fall 2026
+C26-02,Database Principles,3,48,D26-01,T26-01,Fall 2026
+C26-03,Knowledge Graph Applications,3,48,D26-01,T26-01,Fall 2026
+C26-04,Calculus,4,64,D26-02,T26-03,Fall 2026
+C26-05,Probability and Statistics,3,48,D26-02,T26-04,Fall 2026
+C26-06,Optimization Methods,3,48,D26-02,T26-03,Fall 2026
+C26-07,College English,3,48,D26-03,T26-05,Fall 2026
+C26-08,Academic Writing,2,32,D26-03,T26-05,Fall 2026
+C26-09,Intercultural Communication,2,32,D26-03,T26-06,Fall 2026
+C26-10,Educational Psychology,3,48,D26-04,T26-07,Fall 2026
+C26-11,Instructional Design,3,48,D26-04,T26-08,Fall 2026
+C26-12,Learning Assessment,2,32,D26-04,T26-08,Fall 2026

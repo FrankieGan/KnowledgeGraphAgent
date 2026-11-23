@@ -1,0 +1,25 @@
+Course Prerequisites and Peer Support
+
+The following statements describe course prerequisites and direct peer support between students.
+
+Database Principles (C26-02) requires Introduction to Programming (C26-01) as a prerequisite.
+
+Knowledge Graph Applications (C26-03) requires Database Principles (C26-02) as a prerequisite.
+
+Probability and Statistics (C26-05) requires Calculus (C26-04) as a prerequisite.
+
+Optimization Methods (C26-06) requires Calculus (C26-04) as a prerequisite.
+
+Academic Writing (C26-08) requires College English (C26-07) as a prerequisite.
+
+Instructional Design (C26-11) requires Educational Psychology (C26-10) as a prerequisite.
+
+Learning Assessment (C26-12) requires Instructional Design (C26-11) as a prerequisite.
+
+Yuchuan Jiang (S26-01) and Yinan He (S26-07) support each other in their studies.
+
+Shuning Wen (S26-02) and Jiayan Fu (S26-20) support each other in their studies.
+
+Qinghe Lu (S26-08) and Yutong Cheng (S26-14) support each other in their studies.
+
+Mubai Fang (S26-15) and Yizhou Pan (S26-21) support each other in their studies.

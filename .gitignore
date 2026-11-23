@@ -1,0 +1,53 @@
+# Publish only the selected project directories and repository metadata.
+/*
+!/.gitignore
+!/README.md
+!/agent/
+!/assets/
+!/file/
+!/LICENSE
+!/LICENSE.txt
+!/NOTICE
+!/licenses/
+!/requirements.txt
+
+# Local Python environments and generated caches.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local editor settings, temporary files, and backups.
+.idea/
+.vscode/
+.scratch/
+.rollback-backups/
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Credentials and local configuration; sanitized templates may be committed.
+.env
+.env.*
+!.env.example
+!.env.sample
+config.local.json
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
+id_rsa
+id_ed25519
+
+# Derived OCR cache; keep source documents in assets.
+/assets/unstructuredData/pdf2txt/

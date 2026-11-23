@@ -1,0 +1,8 @@
+source_file,relationship_type,from_node_label,from_node_column,to_node_label,to_node_column,properties
+20261121_01_departments.csv,HeadedBy,Department,head_teacher_id,Teacher,id,
+20261121_02_teachers.csv,MemberOf,Teacher,department_id,Department,id,
+20261121_03_courses.csv,OfferedBy,Course,department_id,Department,id,
+20261121_03_courses.csv,LeadTaughtBy,Course,lead_teacher_id,Teacher,id,
+20261121_04_students.csv,MemberOf,Student,department_id,Department,id,
+20261121_04_students.csv,AdvisedBy,Student,advisor_teacher_id,Teacher,id,
+20261121_04_students.csv,CoreCourse,Student,core_course_id,Course,id,

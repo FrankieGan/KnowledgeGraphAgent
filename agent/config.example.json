@@ -1,0 +1,7 @@
+{
+  "OPENAI_API_KEY": "",
+  "ALI_API_KEY": "",
+  "DEEPSEEK_API_KEY": "",
+  "ALI_BASE_URL": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "NEO4J_PASSWORD": ""
+}

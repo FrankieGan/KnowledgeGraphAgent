@@ -1,0 +1,5 @@
+source_file,label,unique_column_name,properties
+20261121_01_departments.csv,Department,id,name;founded_year;research_focus
+20261121_02_teachers.csv,Teacher,id,name;title;research_focus;hired_year
+20261121_03_courses.csv,Course,id,name;credits;contact_hours;term
+20261121_04_students.csv,Student,id,name;entry_year

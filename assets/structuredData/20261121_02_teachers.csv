@@ -1,0 +1,9 @@
+﻿id,name,title,department_id,research_focus,hired_year
+T26-01,Wenbo Gu,Professor,D26-01,Knowledge Representation and Graph Data Management,2012
+T26-02,Sining Tang,Associate Professor,D26-01,Programming and Software Engineering,2017
+T26-03,Jingcheng Han,Professor,D26-02,Numerical Analysis and Optimization,2010
+T26-04,Anhe Xu,Lecturer,D26-02,"Probability, Statistics, and Data Modeling",2021
+T26-05,Shuyao Ye,Professor,D26-03,Academic English and Writing,2014
+T26-06,Zhixia Meng,Associate Professor,D26-03,Intercultural Communication,2019
+T26-07,Mingke Shao,Professor,D26-04,Educational Psychology and Learning Sciences,2013
+T26-08,Qingyue Luo,Lecturer,D26-04,Instructional Design and Learning Assessment,2022

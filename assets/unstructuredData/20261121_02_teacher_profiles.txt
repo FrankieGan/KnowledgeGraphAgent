@@ -1,0 +1,19 @@
+Chengchuan College: Teacher Profiles
+
+Fall 2026
+
+Wenbo Gu (T26-01) holds the title of Professor and joined the college in 2012. Wenbo Gu (T26-01) belongs to Information Engineering Department (D26-01). Research focus: Knowledge Representation and Graph Data Management.
+
+Sining Tang (T26-02) holds the title of Associate Professor and joined the college in 2017. Sining Tang (T26-02) belongs to Information Engineering Department (D26-01). Research focus: Programming and Software Engineering.
+
+Jingcheng Han (T26-03) holds the title of Professor and joined the college in 2010. Jingcheng Han (T26-03) belongs to Mathematical Sciences Department (D26-02). Research focus: Numerical Analysis and Optimization.
+
+Anhe Xu (T26-04) holds the title of Lecturer and joined the college in 2021. Anhe Xu (T26-04) belongs to Mathematical Sciences Department (D26-02). Research focus: Probability, Statistics, and Data Modeling.
+
+Shuyao Ye (T26-05) holds the title of Professor and joined the college in 2014. Shuyao Ye (T26-05) belongs to Language and Culture Department (D26-03). Research focus: Academic English and Writing.
+
+Zhixia Meng (T26-06) holds the title of Associate Professor and joined the college in 2019. Zhixia Meng (T26-06) belongs to Language and Culture Department (D26-03). Research focus: Intercultural Communication.
+
+Mingke Shao (T26-07) holds the title of Professor and joined the college in 2013. Mingke Shao (T26-07) belongs to Education Research Department (D26-04). Research focus: Educational Psychology and Learning Sciences.
+
+Qingyue Luo (T26-08) holds the title of Lecturer and joined the college in 2022. Qingyue Luo (T26-08) belongs to Education Research Department (D26-04). Research focus: Instructional Design and Learning Assessment.
